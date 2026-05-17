@@ -1,3 +1,5 @@
+[Download Copify v1.0.0](https://github.com/rkeshri04/Copify/releases/download/v1.0.0/Copify.dmg)
+
 # Copify
 Your clipboard has a memory now.
 
